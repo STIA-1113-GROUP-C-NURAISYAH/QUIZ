@@ -1,0 +1,71 @@
+1.B
+2.C
+3.D
+4. 
+  public class sum{
+  public static void main (String[] args){
+  int num1=20;
+  int num2=32;
+  int sum=num1+num2;
+  System.out.println (“Sum of two numbers is: “ + sum);
+  }
+  }
+
+5. public static void main (String[] args)
+6.A
+7.B
+8. A,C,D,F
+9.C
+10.C
+11.A
+
+12.
+i.  Int a;
+    Int b;
+ii. Int x=10;
+    Char ch=’y’;
+iii.Double payRate=12.50;
+iv. boolean ans=true;
+
+13.
+i. 3.25
+ii. 5
+iii. 1
+iv. -2
+v. 4.25
+vi. -2
+vii. 12
+viii. 16.5
+
+14.
+a=20
+b=15
+c=6
+x=11.5
+y=4.5
+
+15. double sum=3+5+14.1
+
+16. 
+i.x *= 2;
+ii.x += y – 2;
+iii.sum += num;
+iv.y /= x + 5;
+
+
+
+17.class SampleProgram
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Programming is fun!");
+    }
+}
+
+18. class FixProgram
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World!");
+    }
+}
